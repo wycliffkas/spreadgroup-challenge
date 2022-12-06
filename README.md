@@ -7,7 +7,7 @@ The hosted version can be accessed here ```https://boisterous-raindrop-dec55d.ne
 ## Running the application
 - Clone the repo locally. By running:
 ```
-$ git clone https://github.com/wycliffkas/Todoo.git
+$ git clone https://github.com/wycliffkas/spreadgroup-challenge.git
 ```
 - Install [Node.js](https://nodejs.org/en/)
 - Run `npm install` if you use npm or `yarn` if you use yarn inorder to install the dependencies
