@@ -1,0 +1,44 @@
+p,
+h3,
+h4 {
+	margin: 10px;
+}
+
+.wrapper {
+	margin: 20px;
+}
+
+img {
+	width: 100%;
+	height: 200px;
+	min-width: 100%;
+	object-fit: cover;
+}
+
+.detailed-img {
+	width: 100%;
+	object-fit: cover;
+	height: 500px;
+}
+
+.detailed-info-wrapper {
+	margin: auto;
+}
+
+.back-button {
+	margin-bottom: 10px;
+}
+
+.measurements {
+	margin-left: 15px;
+}
+
+.breed-name {
+  margin-top: 0
+}
+
+.not-found-wrapper {
+  text-align: center;
+  margin-top: 10px;
+  font-size: 18px;
+}
