@@ -1,4 +1,4 @@
-# Todoo
+# Challenge
 Please build an application that contains two pages:
 1. A dog list page
 2. A dog breed detail page
